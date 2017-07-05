@@ -1,6 +1,6 @@
 # Miniflix
 
-A short version of **Netflix**. [**https://facebook.github.io/react-native/**]
+A short version of **Netflix**. [**![React Js](https://facebook.github.io/react-native/)**]
 
 ### Install the dependencies
 ```
