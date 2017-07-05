@@ -1,7 +1,7 @@
 # Miniflix
 
 A short version of **Netflix**. [**React JS**]
-![React JS](https://facebook.github.io/react-native/)
+[![Linux Build][travis-image]][travis-url]
 
 ### Install the dependencies
 ```
