@@ -1,7 +1,7 @@
 # Miniflix
 
 A short version of **Netflix**. [**React JS**]
-[![Circle CI](https://circleci.com/gh/facebook/react-native.svg?style=shield)]
+![React JS](https://facebook.github.io/react-native/)
 
 ### Install the dependencies
 ```
